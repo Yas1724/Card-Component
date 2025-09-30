@@ -9,12 +9,9 @@ created a simple React App which has a reusable Card Component which has the fol
     - LinkedIn, Twitter and other Social Media Handle buttons
     - Interests Section
 
-
-   -Glimpse of it:
      <img width="637" height="483" alt="image" src="https://github.com/user-attachments/assets/2cd27539-35b4-4d5e-8ab5-26b3df5794c8" />
 
-
-
+     
 #NOT PERFORMED YET - 
  Additional & Slightly advanced:
     - Create a page where you can add these kind of Cards by taking input from the user
